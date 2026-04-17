@@ -76,7 +76,7 @@ My repositories mainly reflect:
 ## Connect With Me
 
 - GitHub: [@Ajibode-Daniel](https://github.com/Ajibode-Daniel)
-- LinkedIn: [[Add your LinkedIn link here](https://www.linkedin.com/in/ajibodedaniel/)]
+- LinkedIn: [ajibodedaniel](https://www.linkedin.com/in/ajibodedaniel/)
 - Email: [ajibodedaniel477@gmail.com]
 
 ---
